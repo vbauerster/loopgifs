@@ -1,0 +1,1 @@
+jspm bundle-sfx --minify lib/main
